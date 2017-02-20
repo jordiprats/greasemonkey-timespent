@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        time spent
-// @namespace   jordi.prats@gmail.com
+// @namespace   jprats@systemadmin.es
 // @description time wasted
 // @version     1
 // @grant none
