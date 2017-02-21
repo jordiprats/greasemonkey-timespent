@@ -2,7 +2,7 @@
 // @name        time spent
 // @namespace   jprats@systemadmin.es
 // @description time wasted
-// @version     1
+// @version     2
 // @grant none
 // ==/UserScript==
 window.addEventListener('load', function() {
