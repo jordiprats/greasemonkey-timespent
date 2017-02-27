@@ -1,5 +1,5 @@
 # greasemonkey-timespent
 
-all your MBOs are belong to us
+all your MBO are belong to us
 
 
