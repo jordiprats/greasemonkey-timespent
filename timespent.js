@@ -79,6 +79,4 @@ window.addEventListener('load', function() {
     hold[i].appendChild(script_hold);
   }
 
-  //log_work[0].appendChild(script);
-
 }, false);
